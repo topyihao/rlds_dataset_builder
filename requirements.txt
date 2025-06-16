@@ -1,0 +1,33 @@
+# Core TensorFlow and RLDS packages
+tensorflow==2.13.0
+tensorflow-datasets==4.9.2
+tensorflow-hub==0.14.0
+tensorflow-metadata==1.13.1
+
+# Data processing
+apache-beam==2.49.0
+numpy==1.24.3
+h5py==3.9.0
+pandas
+pillow==10.0.0
+
+# Visualization and monitoring
+matplotlib==3.7.2
+plotly==5.15.0
+wandb==0.15.6
+
+# Utilities
+tqdm==4.65.0
+pyyaml==6.0.1
+requests==2.31.0
+absl-py==1.4.0
+
+# Array processing
+array-record==0.4.0
+dm-tree==0.1.8
+etils==1.3.0
+
+# Additional utilities
+click==8.1.6
+protobuf==4.23.4
+grpcio==1.56.2 
